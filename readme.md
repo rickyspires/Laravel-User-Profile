@@ -1,3 +1,16 @@
+This code is part from this tutorial: https://www.youtube.com/embed/iKRLrJXNN4M
+Is is not complete but to the plan is to make a musicians jobs board when I get time :)
+
+I have attached the sql and some images for you to view.
+
+
+
+/* RUNNING THE SCRIPT */
+To run the project you can clone the files and install "Laravel Valet" in to the project folder then just go to http://musiciansjobs.dev/
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
